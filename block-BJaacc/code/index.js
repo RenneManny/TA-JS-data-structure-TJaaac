@@ -17,7 +17,7 @@ console.log(students.isAdult);
 // 8. Add a another key of `42` to the object with a value of `The answer to the meaning of life`.
 students[42]=`The answer to the meaning of the life.`
 // 9. Using `console.log` print the value of key `42` from the `students` object
-console.log(students[])
+console.log(students[42]);
 // 10. Check the length of object named `students`.
 console.log(Object.keys(students).length);
 // 11. Can you define a key of `let or var` in any object? Reason.
